@@ -1,0 +1,40 @@
+
+body {
+    background-color: royalblue ;
+    background-size: 100vw 100vh;
+}
+
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+    color: black;
+  
+}
+
+
+#btnLess {
+
+    text-decoration: none;
+    color: purple;
+}
+
+#btnOver {
+    text-decoration: none;
+    color: purple;
+}
+
+
+
+.card-header {
+    background-color: rgba(157, 139, 201, 0.301);
+}
+
+.card-footer {
+    background-color: rgba(157, 139, 201, 0.301);
+}
+
+.card-body {
+    background-color: rgba(207, 228, 207, 0.151);
+}
+
+
